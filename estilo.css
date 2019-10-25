@@ -170,7 +170,7 @@ img{ width: 100% }
 .pelis{ flex-wrap: wrap; align-items: center; flex-direction: column;}
 .pp{width: 50%; margin-bottom: 1%; }
 .wrapper{height: auto; }
-.bott{ left: -5%; }
+.bott{ left: 0%; }
 }
 
 @media screen and (min-width: 0px) and (max-width: 599px){ 
